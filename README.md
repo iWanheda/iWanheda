@@ -12,9 +12,9 @@
 
 <br />
 
-### My Podcast
+### Listening To
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="The Student Spotlight Podcast" width="350" />](https://open.spotify.com/show/48DzS7x134TsQuE7uvz9Wi)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Russ" width="350" />](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS)
 
 
 
@@ -53,7 +53,7 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=iWanheda.visitor-badge)
   
-  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
+<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
 
 -----
 Credits: [iWanheda](https://github.com/iWanheda)
