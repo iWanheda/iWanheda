@@ -1,7 +1,6 @@
 <img align="left" alt="Brain" width="300" src="http://gifimage.net/wp-content/uploads/2017/10/cerebro-gif-tumblr-3.gif">
 
-
-  <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="20%">
+<img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="20%">
 
 - 📚 I'm a Computer Science student at IST (Lisbon, Portugal)
 - 🧠 Currently learning about computational neuroscience and artificial intelligence
@@ -9,6 +8,8 @@
 - 🧪 In search of neuroscience and decision intelligence research opportunities
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+
+<br>
 
 ### Listening To
 
@@ -28,14 +29,14 @@
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Github Desktop" width="26px" src="https://dl2.macupdate.com/images/icons256/39062.png?d=1522354604" />
-<br />
+<br>
 
 ### Connect with me:
 
-<img align="left" alt="discord.com" width="22px" src="https://img.shields.io/badge/Discord-dopamine%231337-7289DA?logo=discord&style=for-the-badge" />
+<img align="left" alt="discord.com" width="150px" height="30px" src="https://img.shields.io/badge/Discord-dopamine%231337-7289DA?logo=discord&style=for-the-badge" />
 
-<br />
-<br />
+<br>
+<br>
 
 <img align="left" alt="dots" width="200" src="http://orig10.deviantart.net/6512/f/2013/236/1/5/heart_gif_by_heyrobots-d6jl5ut.png">
 
