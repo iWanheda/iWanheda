@@ -10,13 +10,9 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
-<br />
-
 ### Listening To
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Russ" width="350" />](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS)
-
-
 
 ### Languages and Tools:
 
