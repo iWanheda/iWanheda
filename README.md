@@ -33,7 +33,7 @@
 
 ### Connect with me:
 
-<img align="left" alt="discord.com" width="150px" height="30px" src="https://img.shields.io/badge/Discord-dopamine%231337-7289DA?logo=discord&style=for-the-badge" />
+<img align="left" alt="discord.com" src="https://img.shields.io/badge/Discord-dopamine%231337-7289DA?logo=discord&style=for-the-badge" />
 
 <br>
 <br>
