@@ -9,8 +9,6 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
-<br>
-
 ### Listening To
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Russ" width="350" />](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS)
@@ -29,7 +27,6 @@
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Github Desktop" width="26px" src="https://dl2.macupdate.com/images/icons256/39062.png?d=1522354604" />
-<br>
 
 ### Connect with me:
 
